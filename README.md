@@ -17,6 +17,7 @@
 1. [如何不用微积分算个球？](https://www.toutiao.com/a6721927900490105348)
 1. [一道初中数学奥赛题让学生毫无办法，看了解答过程后大呼想不到](https://www.toutiao.com/a6725678761393537539)
 1. [圆周角定理](https://baike.baidu.com/item/圆周角定理/5943980?fr=aladdin)
+1. [数学的深渊](https://blog.csdn.net/weixin_33725239/article/details/85945715)
 1. [一道初中数学竞赛题，很多人看完题后感觉简单，但做对者寥寥无几](https://www.toutiao.com/a6737569676479431172)
 1. [小学数学：谁发明了这几张动图，原来几何这么简单！](https://www.toutiao.com/a6739027876785439236/)
 1. [一道小学数学竞赛题难度不小，求正方形面积，要有很强的推理能力](https://www.toutiao.com/a6742377779532136974/)
