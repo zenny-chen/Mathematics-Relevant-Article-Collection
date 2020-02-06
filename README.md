@@ -15,6 +15,7 @@
 1. [移动两颗瓜子，使等式成立？女大学生只需3秒，当场录取](https://www.toutiao.com/i6737051646838178317/)
 1. [如此烧脑的题目你会做几道？](https://www.toutiao.com/a6738169966979187208/)
 1. [如何不用微积分算个球？](https://www.toutiao.com/a6721927900490105348)
+1. [上凸下凸的极致——琴生不等式](https://www.toutiao.com/i6507718197184037389/)
 1. [一道初中数学奥赛题让学生毫无办法，看了解答过程后大呼想不到](https://www.toutiao.com/a6725678761393537539)
 1. [圆周角定理](https://baike.baidu.com/item/圆周角定理/5943980?fr=aladdin)
 1. [数学的深渊](https://blog.csdn.net/weixin_33725239/article/details/85945715)
