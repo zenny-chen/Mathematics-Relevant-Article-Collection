@@ -49,3 +49,5 @@
 1. [求解一元二次方程式不再繁琐！美国数学博士发现简便新方法](https://www.toutiao.com/i6768720850230182403/)
 1. [旋转构造几何最值](https://www.toutiao.com/i6507734563395994120/)
 
+![logic1.jpg](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/logic1.jpg)
+
