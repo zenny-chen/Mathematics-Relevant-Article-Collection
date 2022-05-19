@@ -121,4 +121,11 @@
 
 <br />
 
+![math_triangles.png](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/math_triangles.png)
+
+<br />
+
+![pic2.jpg](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/pic2.jpg)
+
+此题答案：[利用Python求阴影部分的面积实例代码](https://www.jb51.net/article/152050.htm)
 
