@@ -41,6 +41,7 @@
 - [史上最贱的数学题](https://mp.weixin.qq.com/s?__biz=MzA5ODUxOTA5Mg==&mid=2652579879&idx=1&sn=7f37ed74b8180eb4a4d345debc8b1ba6&chksm=8b7fd97cbc08506a18bcbcf0f7f37cfad04f1edef92c2f68a72d6d15a4d0fe92380590ebcb86&mpshare=1&scene=23&srcid=0202hahRh3yzjZptYMHm5HOm)
 - [常数e是个什么玩意](https://www.toutiao.com/i6499422938532413965/)
 - [π + e =？](https://www.toutiao.com/a6742442475337564684/)
+- [根号i等于多少？](https://www.toutiao.com/video/7050654717298508301/)
 - [伯努利是如何将自然数任意次幂之和系统化的？](https://www.toutiao.com/a6790535053307806221/)
 - [数学家花了2千年也没能定义好“平面”，最后希尔伯特处理得巧妙](https://www.toutiao.com/i6711057574323552772/)
 - [数学之王欧拉有多强？发现最美数学公式，给圆周率取名为π](https://www.toutiao.com/a6741894903627792908/)
