@@ -16,6 +16,7 @@
 - [复数是如何被发现的？数学家们为何如此痴迷的研究了500年](https://www.toutiao.com/a6765767297387725324/)
 - [我们的世界为什么会需要复数？](https://www.toutiao.com/i7059147245782041088/)
 - [虚数到底有什么意义？从 i 说起](https://www.toutiao.com/i6773983840030425613/)
+- [发现250年毫无进展！为什么虚数不在数轴上？](https://www.toutiao.com/video/7152089496510136868/)
 - [根号i等于多少？](https://www.toutiao.com/video/7050654717298508301/)
 - [傅立叶分析之掐死教程](http://zhuanlan.zhihu.com/wille/19763358)
 - [终于，有人能讲明白傅里叶变换了](https://www.toutiao.com/article/7141223292031025704/)
