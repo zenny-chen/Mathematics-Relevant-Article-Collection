@@ -35,6 +35,7 @@
 - [理解了源和旋，你就理解了麦克斯韦方程组](https://www.toutiao.com/i7046381794106540576/)
 - [学姐分享40组超炫数学动图，瞬间开启你的数学思维，速来转发收藏](https://www.toutiao.com/i6733839996874129933/)
 - [如何不用微积分算个球？](https://www.toutiao.com/a6721927900490105348)
+- [微分和导数的关系是什么？两者的几何意义有什么不同？为什么要定义微分 ?](https://www.zhihu.com/question/22199657/answer/115178055)
 - [用微积分计算1到100连续自然数平方之和](https://www.toutiao.com/a6877898925915931148/)
 - [上凸下凸的极致——琴生不等式](https://www.toutiao.com/i6507718197184037389/)
 - [圆周角定理](https://baike.baidu.com/item/圆周角定理/5943980?fr=aladdin)
