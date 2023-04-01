@@ -38,6 +38,7 @@
 - [微分和导数的关系是什么？两者的几何意义有什么不同？为什么要定义微分 ?](https://www.zhihu.com/question/22199657/answer/115178055)
 - [用微积分计算1到100连续自然数平方之和](https://www.toutiao.com/a6877898925915931148/)
 - [上凸下凸的极致——琴生不等式](https://www.toutiao.com/i6507718197184037389/)
+- [帮忙解一下这题，写一下过程。（求解几何级数极限之和）](https://zhidao.baidu.com/question/684479831404203652.html)
 - [圆周角定理](https://baike.baidu.com/item/圆周角定理/5943980?fr=aladdin)
 - [围棋中的数学原理（二）](https://www.toutiao.com/i7026934990902559262/)
 - [数学的深渊](https://blog.csdn.net/weixin_33725239/article/details/85945715)
