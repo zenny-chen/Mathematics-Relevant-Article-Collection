@@ -55,6 +55,7 @@
 - [这是一份文科生都能看懂的线性代数简介](https://www.toutiao.com/i6539110935561241096/)
 - [麻省理工线性代数笔记（一）-线性方程组表示方式](https://zhuanlan.zhihu.com/p/36524700)
 - [证明：不等式e<sup>x</sup>≥x+1](https://www.toutiao.com/a6793264784268591628/)
+- [线性代数之——向量简介](https://zhuanlan.zhihu.com/p/49813419)
 - [原来数学才是世界上最浪漫的学科！看完还能再写三套题](https://www.toutiao.com/a6744319640047976971/)
 - [算24全分析：计算力最强的牌组是哪个？最好算的数字是哪个？](https://www.toutiao.com/i6893097169281090052/)
 - [如此烧脑的题目你会做几道？](https://www.toutiao.com/a6738169966979187208/)
