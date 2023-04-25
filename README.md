@@ -76,6 +76,16 @@
 - [这4道小学数学题，老师看了抓狂，家长看了揪头发，学霸能全做对](https://www.toutiao.com/i6659367826341495307/)
 - [一道小学数学竞赛题难度不小，求正方形面积，要有很强的推理能力](https://www.toutiao.com/a6742377779532136974/)
 - [五年级几何压轴题，已知长方形ABCD的面积为36平方厘米，点E在AD上，且AD=3AE，连接CE，点F、G是CE的三等分点，求阴影部分的面积？](https://www.toutiao.com/w/i1721435298646020/)
+- 小学5年级的培优的题目——马戏团驯养了15只狗。其中14只会表演翻筋斗，13只会表演倒立，9只会表演钻圈，10只会做算术。请问，至少有几只狗都会表演？
+
+群友回答：
+
+> 这里面有一个不会翻，两个不会倒立，6个不会钻，5个不会算数，所以最多有1+2+6+5个狗不能全能，所以至少有一个全能。\
+14只会翻筋斗，那也就是说有1只可能啥都会但是就是不会翻筋斗。其他三项同理，那么相减的后得到的数字就是其他几项都会，但是就是不会A的，然后要求4项全会的至少数值，那就是这四项之间互不相交，所以四个数值最大的并集就是14，因此最少只有1只狗四项都会。
+
+网上解答参考：
+
+
 - [我特别讨厌让小学生做太多这种题，简直就是坑娃。学了初中一线三等角构造全等三角形，就简单多了。](https://www.toutiao.com/w/i1721126946664448/)
 - [一道奥数题，让你学会解更复杂的裂项求和试题，看完就会](https://www.toutiao.com/a6751288937135735304/)
 - [求两个小正方形面积之和，让小学生一筹莫展，家长：我也不会啊](https://www.toutiao.com/a6744586873995280908/)
@@ -126,15 +136,15 @@
 
 <br />
 
-![logic1.jpg](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/logic1.jpg)
+![logic1.jpg](logic1.jpg)
 
 <br />
 
-![math_triangles.png](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/math_triangles.png)
+![math_triangles.png](math_triangles.png)
 
 <br />
 
-![pic2.jpg](https://github.com/zenny-chen/Mathematics-Relevant-Article-Collection/blob/master/pic2.jpg)
+![pic2.jpg](pic2.jpg)
 
 此题答案：[利用Python求阴影部分的面积实例代码](https://www.jb51.net/article/152050.htm)
 
