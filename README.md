@@ -60,6 +60,7 @@
 - [数学之王欧拉有多强？发现最美数学公式，给圆周率取名为π](https://www.toutiao.com/a6741894903627792908/)
 - [最伟大的数学公式：欧拉公式](https://www.toutiao.com/i6700367309506085387/)
 - [漫谈黎曼几何，揭秘高维空间的数学骨架，远比你想的简单。](https://kuaibao.qq.com/s/20190826AZNXFE00?refer=spider)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [这是一份文科生都能看懂的线性代数简介](https://www.toutiao.com/i6539110935561241096/)
 - [麻省理工线性代数笔记（一）-线性方程组表示方式](https://zhuanlan.zhihu.com/p/36524700)
 - [【机器学习】线性代数-特殊矩阵](https://www.toutiao.com/article/7238784250366214671/)
