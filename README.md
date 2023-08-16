@@ -170,6 +170,18 @@
 
 <br />
 
+![three-numbers_question](three-numbers_question.jpg)
+
+![three-numbers_answer](three-numbers_answer.jpg)
+
+<br />
+
+![swirl-matrix_question](swirl-matrix_question.jpg)
+
+![swirl-matrix_answer](swirl-matrix_answer.png)
+
+<br />
+
 ## 关于“不想当将军的士兵不是好士兵”这个命题的逻辑分析
 
 一天，营长在全营会上讲话说：“不想到将军的士兵不是好士兵”，那么营长讲这句话的意思是：
