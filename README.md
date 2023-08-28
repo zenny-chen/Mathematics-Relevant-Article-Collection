@@ -21,6 +21,7 @@
 - [傅立叶分析之掐死教程](http://zhuanlan.zhihu.com/wille/19763358)
 - [终于，有人能讲明白傅里叶变换了](https://www.toutiao.com/article/7141223292031025704/)
 - [傅里叶变换，有史以来最伟大的数学发现之一，理解其背后的直觉](https://baijiahao.baidu.com/s?id=1711309753031579562)
+- [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 - [Theano中使用FFT甚至能获得更快的卷积](http://benanne.github.io/2014/05/12/fft-convolutions-in-theano.html)
 - [离散余弦变换](http://blog.csdn.net/luoweifu/article/details/8214959)
 - [信号的自相关](https://www.toutiao.com/a6820477114291061251/)
