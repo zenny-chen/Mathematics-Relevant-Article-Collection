@@ -145,7 +145,8 @@
 - [移动两颗瓜子，使等式成立？女大学生只需3秒，当场录取](https://www.toutiao.com/i6737051646838178317/)
 - [现在孩子很不简单,移动3个使头朝下，2分钟交卷！](https://www.ixigua.com/6901699521206551052/)
 - [计划教育下的数学教育之怪现状](https://www.toutiao.com/a6830706569085190671/)
-- [图形推理100道(附答案)](https://wenku.baidu.com/view/06554eb7312b3169a551a469#)
+- [图形推理100道(附答案)](https://wenku.baidu.com/view/06554eb7312b3169a551a469)
+- [韦神封神一战 IMO竞赛题](https://www.toutiao.com/video/7284100153579998498/)
 
 <br />
 
