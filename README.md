@@ -32,6 +32,7 @@
 - [带你一文了解零知识证明](https://www.toutiao.com/i6891957348949197319/)
 - [蒙特卡洛马尔可夫链学习小结](https://www.toutiao.com/a6822456838559105540/)
 - [压缩下一个 token 通向超过人类的智能](https://zhuanlan.zhihu.com/p/619511222)
+- [一 篇 谁 看 谁 疯 的 SCI](https://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&mid=2649426442&idx=1&sn=a9784d961f2315ae6c6921b13c6d24fa)
 - [“向量”的前世今生：8位天才数学家，耗时2000年完成](https://www.toutiao.com/a6768308525685801479/)
 - [拉格朗日方程与哈密顿原理，终极的自然原则，宇宙的主要动力](https://www.toutiao.com/i6930450409148531208/)
 - [硬核科普——不确定性原理本质上与量子力学无关，而是纯数学现象](https://www.toutiao.com/i7011097155792388641/)
