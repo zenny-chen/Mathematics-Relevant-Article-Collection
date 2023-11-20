@@ -27,6 +27,7 @@
 - [信号的自相关](https://www.toutiao.com/a6820477114291061251/)
 - [数字信号处理中均值、方差、均方值、均方差计算和它们的物理意义](https://blog.csdn.net/wordwarwordwar/article/details/63251674)
 - [快速傅里叶变换](https://blog.csdn.net/u012531536/article/details/82530285)
+- [【拉普拉斯变换】这样理解才直观#拉普拉斯变换](https://www.toutiao.com/video/7295679437964659983/)
 - [频谱为什么会泄漏？](https://www.toutiao.com/a6788812208227746317/)
 - [传奇谢幕：88岁MIT教授的最后一堂线性代数课](https://www.toutiao.com/article/7233667874995405372/)
 - [带你一文了解零知识证明](https://www.toutiao.com/i6891957348949197319/)
