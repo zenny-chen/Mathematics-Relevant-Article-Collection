@@ -19,6 +19,7 @@
 - [发现250年毫无进展！为什么虚数不在数轴上？](https://www.toutiao.com/video/7152089496510136868/)
 - [根号i等于多少？](https://www.toutiao.com/video/7050654717298508301/)
 - [傅立叶分析之掐死教程](http://zhuanlan.zhihu.com/wille/19763358)
+- [傅里叶变换是什么？来看最直观的傅里叶变换图解](https://www.toutiao.com/video/7275647045866769703/)
 - [终于，有人能讲明白傅里叶变换了](https://www.toutiao.com/article/7141223292031025704/)
 - [傅里叶变换，有史以来最伟大的数学发现之一，理解其背后的直觉](https://baijiahao.baidu.com/s?id=1711309753031579562)
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
