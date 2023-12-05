@@ -33,6 +33,7 @@
 - [传奇谢幕：88岁MIT教授的最后一堂线性代数课](https://www.toutiao.com/article/7233667874995405372/)
 - [带你一文了解零知识证明](https://www.toutiao.com/i6891957348949197319/)
 - [蒙特卡洛马尔可夫链学习小结](https://www.toutiao.com/a6822456838559105540/)
+- [使用最广泛的状态估计算法-扩展卡尔曼滤波的数学原理思想及C代码](https://www.toutiao.com/article/7308632644391109158/)
 - [压缩下一个 token 通向超过人类的智能](https://zhuanlan.zhihu.com/p/619511222)
 - [一 篇 谁 看 谁 疯 的 SCI](https://mp.weixin.qq.com/s?__biz=MzA4OTYxNzE4NQ==&mid=2649426442&idx=1&sn=a9784d961f2315ae6c6921b13c6d24fa)
 - [浅谈常见的几种CFD算法](https://mp.weixin.qq.com/s?__biz=MzA4NzI1NjE0Nw==&mid=2649751534&idx=1&sn=83598fa9cc506829d83659297c2d5ae7)
