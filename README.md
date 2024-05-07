@@ -30,6 +30,7 @@
 - [快速傅里叶变换](https://blog.csdn.net/u012531536/article/details/82530285)
 - [【拉普拉斯变换】这样理解才直观#拉普拉斯变换](https://www.toutiao.com/video/7295679437964659983/)
 - [频谱为什么会泄漏？](https://www.toutiao.com/a6788812208227746317/)
+- [函数y=arctan(-7x-21)+x的多阶导数计算步骤](https://www.toutiao.com/article/7365423978879812108/)
 - [传奇谢幕：88岁MIT教授的最后一堂线性代数课](https://www.toutiao.com/article/7233667874995405372/)
 - [带你一文了解零知识证明](https://www.toutiao.com/i6891957348949197319/)
 - [蒙特卡洛马尔可夫链学习小结](https://www.toutiao.com/a6822456838559105540/)
