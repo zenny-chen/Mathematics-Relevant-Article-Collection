@@ -69,6 +69,7 @@
 - [漫谈黎曼几何，揭秘高维空间的数学骨架，远比你想的简单。](https://kuaibao.qq.com/s/20190826AZNXFE00?refer=spider)
 - [数学建模常用模型](https://www.toutiao.com/article/7287132448373506571/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+- [12页线性代数笔记登GitHub热榜，还获得了Gilbert Strang大神亲笔题词](https://zhuanlan.zhihu.com/p/642594871)
 - [这是一份文科生都能看懂的线性代数简介](https://www.toutiao.com/i6539110935561241096/)
 - [麻省理工线性代数笔记（一）-线性方程组表示方式](https://zhuanlan.zhihu.com/p/36524700)
 - [【机器学习】线性代数-特殊矩阵](https://www.toutiao.com/article/7238784250366214671/)
