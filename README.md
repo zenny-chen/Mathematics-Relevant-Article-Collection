@@ -18,6 +18,7 @@
 - [虚数到底有什么意义？从 i 说起](https://mp.weixin.qq.com/s?__biz=MzA4NDI3MjgyMw==&mid=2448232973&idx=6&sn=766ebbf1febac7b0847d9398fe814991&chksm=8bf001d5bc8788c3b558a1e14433ecba285daef35ad632a2b44e5c91483def7a221ce73843b6&scene=27)
 - [发现250年毫无进展！为什么虚数不在数轴上？](https://www.toutiao.com/video/7152089496510136868/)
 - [根号i等于多少？](https://www.toutiao.com/video/7050654717298508301/)
+- [人机交互和复分析](https://www.toutiao.com/article/7381258881407713804/)
 - [傅立叶分析之掐死教程](http://zhuanlan.zhihu.com/wille/19763358)
 - [傅里叶变换是什么？来看最直观的傅里叶变换图解](https://www.toutiao.com/video/7275647045866769703/)
 - [终于，有人能讲明白傅里叶变换了](https://www.toutiao.com/article/7141223292031025704/)
