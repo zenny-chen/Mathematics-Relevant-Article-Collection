@@ -193,6 +193,24 @@
 
 <br />
 
+## 改变世界的18个方程
+
+![18-formulas](images/18-formulas.jpg)
+
+<br />
+
+## 求正方形中阴影部分面积
+
+![question_shadow_area_in_square](images/question_shadow_area_in_square.jpg)
+
+<br />
+
+答案：
+
+![answer_shadow_area_in_square](images/answer_shadow_area_in_square.jpg)
+
+<br />
+
 ## 关于“不想当将军的士兵不是好士兵”这个命题的逻辑分析
 
 一天，营长在全营会上讲话说：“不想到将军的士兵不是好士兵”，那么营长讲这句话的意思是：
