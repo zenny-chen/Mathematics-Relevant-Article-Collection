@@ -77,6 +77,7 @@
 - [12页线性代数笔记登GitHub热榜，还获得了Gilbert Strang大神亲笔题词](https://zhuanlan.zhihu.com/p/642594871)
 - [这是一份文科生都能看懂的线性代数简介](https://www.toutiao.com/i6539110935561241096/)
 - [麻省理工线性代数笔记（一）-线性方程组表示方式](https://zhuanlan.zhihu.com/p/36524700)
+- [平面方程(Plane Equation)](https://www.cnblogs.com/kesalin/archive/2009/09/09/plane_equation.html)
 - [【机器学习】线性代数-特殊矩阵](https://www.toutiao.com/article/7238784250366214671/)
 - [什么是张量 (tensor)？](https://www.zhihu.com/tardis/bd/ans/447498656)
 - [证明：不等式e<sup>x</sup>≥x+1](https://www.toutiao.com/a6793264784268591628/)
