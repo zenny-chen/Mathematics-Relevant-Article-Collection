@@ -43,6 +43,7 @@
 - [“向量”的前世今生：8位天才数学家，耗时2000年完成](https://www.sohu.com/a/425733060_348129)
 - [线性代数之——向量简介](https://zhuanlan.zhihu.com/p/49813419)
 - [向量和矩阵中的各种乘积总结](https://zhuanlan.zhihu.com/p/514053520)
+- [代数余子式](https://baike.baidu.com/item/%E4%BB%A3%E6%95%B0%E4%BD%99%E5%AD%90%E5%BC%8F/6266940?fr=ge_ala)
 - [拉格朗日方程与哈密顿原理，终极的自然原则，宇宙的主要动力](https://www.toutiao.com/i6930450409148531208/)
 - [正态分布(Normal Distribution)公式为什么长这样？](https://www.toutiao.com/article/7389514149371462181/)
 - [硬核科普——不确定性原理本质上与量子力学无关，而是纯数学现象](https://www.toutiao.com/i7011097155792388641/)
