@@ -26,6 +26,7 @@
 - [傅里叶变换交互式入门](https://www.jezzamon.com/fourier/zh-cn.html)
 - [Theano中使用FFT甚至能获得更快的卷积](http://benanne.github.io/2014/05/12/fft-convolutions-in-theano.html)
 - [离散余弦变换](http://blog.csdn.net/luoweifu/article/details/8214959)
+- [卷积的可视化](https://www.toutiao.com/video/7432873049440911935/)
 - [信号的自相关](https://www.toutiao.com/a6820477114291061251/)
 - [数字信号处理中均值、方差、均方值、均方差计算和它们的物理意义](https://blog.csdn.net/wordwarwordwar/article/details/63251674)
 - [快速傅里叶变换](https://blog.csdn.net/u012531536/article/details/82530285)
