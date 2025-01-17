@@ -177,6 +177,12 @@
 
 <br />
 
+## 小学六年级数学题
+
+![grade-6-maths-quiz](images/grade-6-maths-quiz.png)
+
+<br />
+
 ![exponential-formula](exponential-formula.png)
 
 <br />
@@ -196,12 +202,6 @@
 ![swirl-matrix_question](swirl-matrix_question.jpg)
 
 ![swirl-matrix_answer](swirl-matrix_answer.png)
-
-<br />
-
-## 小学六年级数学题
-
-![grade-6-maths-quiz](images/grade-6-maths-quiz.png)
 
 <br />
 
