@@ -74,6 +74,7 @@
 - [数学之王欧拉有多强？发现最美数学公式，给圆周率取名为π](https://www.toutiao.com/a6741894903627792908/)
 - [最伟大的数学公式：欧拉公式](https://www.toutiao.com/i6700367309506085387/)
 - [漫谈黎曼几何，揭秘高维空间的数学骨架，远比你想的简单。](https://kuaibao.qq.com/s/20190826AZNXFE00?refer=spider)
+- [Yu Deng 及合作者在 arxiv 发布希尔伯特第六问题论文，这个世纪数学难题是否已被最终解决？](https://www.zhihu.com/question/14073117334/answer/121697164005)
 - [数学建模常用模型](https://www.toutiao.com/article/7287132448373506571/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [12页线性代数笔记登GitHub热榜，还获得了Gilbert Strang大神亲笔题词](https://zhuanlan.zhihu.com/p/642594871)
