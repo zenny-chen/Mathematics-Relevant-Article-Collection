@@ -229,6 +229,8 @@
 
 <br />
 
+## 绕着对角线轴旋转的立方体
+
 ![rotated_cube](images/rotated_cube.jpg)
 
 此题答案是 **D**。
