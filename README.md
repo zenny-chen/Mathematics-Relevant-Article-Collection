@@ -229,6 +229,14 @@
 
 <br />
 
+![rotated_cube](images/rotated_cube.jpg)
+
+此题答案是 **D**。
+
+参考文章： [Description of curve arising from rotation of a cube](https://math.stackexchange.com/questions/3911212/description-of-curve-arising-from-rotation-of-a-cube)
+
+<br/>
+
 ## 改变世界的18个方程
 
 ![18-formulas](images/18-formulas.jpg)
