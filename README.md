@@ -257,6 +257,16 @@
 
 <br />
 
+## 硬币悖论问题
+
+![coin-antinomy](images/coin-antinomy.jpg)
+
+题目原型：
+
+![coin-antinomy0](images/coin-antinomy0.jpg)
+
+<br />
+
 ## 关于“不想当将军的士兵不是好士兵”这个命题的逻辑分析
 
 一天，营长在全营会上讲话说：“不想到将军的士兵不是好士兵”，那么营长讲这句话的意思是：
