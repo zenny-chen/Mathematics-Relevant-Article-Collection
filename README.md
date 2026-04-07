@@ -261,6 +261,20 @@
 
 <br />
 
+## Cauchy 不等式三大暗示条件
+
+![Cauchy](images/Cauchy.png)
+
+<br />
+
+## 乘法计算的多种方法
+
+![multiplication](images/multiplication.png)
+
+![Mul_Ramanujan](images/Mul_Ramanujan.png)
+
+<br />
+
 ## 硬币悖论问题
 
 ![coin-antinomy](images/coin-antinomy.jpg)
