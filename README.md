@@ -9,6 +9,7 @@
 - [数学史上的三次危机，都和这个字有关](https://www.toutiao.com/a6781606502818906635/)
 - [法国数学到底有多厉害？](https://www.toutiao.com/article/6937980358763856391/)
 - [2021年数学和计算机的6大突破](https://www.toutiao.com/i7047055233297646112/)
+- [23岁门外汉携ChatGPT，攻克60年数学猜想！陶哲轩：我们全走偏了](https://mp.weixin.qq.com/s?__biz=MzU0OTkwNTM2Mw==&mid=2247697400&idx=1&sn=af78c5588b8183bcc74356c0d49a5061)
 - [数学运算和它们的逆运算](https://www.toutiao.com/a6753424503109321223/)
 - [我引以为豪的数学，被娃用新加坡数学打败了](https://www.toutiao.com/a6755745696411812355/)
 - [葛立恒数有没有10的80次方大？](https://wukong.toutiao.com/question/6482900802745663758/)
